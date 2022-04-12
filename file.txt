@@ -1,0 +1,7 @@
+// console.log("helloo");
+// todo local module
+// ! import local module
+// let calcul= require("./localModule")
+// const a=5;
+// const b=6;
+// console.log(`the sum of ${a} and ${b} is`,calcul.minus(a,b));
